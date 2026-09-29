@@ -1,0 +1,6 @@
+{
+  "name": "Content Strategy Agent",
+  "description": "Intelligent content memory engine that tracks published content, analyzes multi-channel performance, surfaces topic gaps, aligns brand voice, and generates data-backed briefs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
